@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/ndtjkv.jpg" alt="AXEL Banner" width="100%">
+  <img src="https://imglink.cc/cdn/W7nvk3afxC.jpg" alt="AXEL Banner" width="100%">
 </p>
 
 <div align="center">
@@ -11,66 +11,77 @@
 ---
 
 <div align="center">
-  <strong>𝑨𝑿𝑬𝑳 𝒊𝒔 𝒎𝒂𝒅𝒆 𝒃𝒚</strong>
+  <strong>AXEL is made by</strong>
 </div>
 
 <h1 align="center">
-  <span style="color:red; font-size:55px;">𝑩𝒂𝒓𝒉𝒐𝒖𝒎 𝑫𝑬𝑽</span>
+  <span style="color:red; font-size:55px;">Barhoum DEV</span>
 </h1>
 
-<h3 align="center">𝑩𝑨𝑹𝑯𝑶𝑼𝑴 𝑻𝑶𝑷 𝟏 𝑫𝑬𝑽</h3>
+<h3 align="center">BARHOUM TOP 1 DEV</h3>
 
 ---
 
 <div align="center">
-    ⚡ AXEL 𝑬𝒙𝒑𝒍𝒂𝒏𝒂𝒕𝒊𝒐𝒏 ⚡          📲 𝑾𝒉𝒂𝒕𝒔𝒂𝒑𝒑 𝑩𝒐𝒐𝒕 𝑺𝒚𝒔𝒕𝒆𝒎 𝑵𝑶𝑫𝑬          🔗 𝑾𝒐𝒓𝒌𝒆𝒓 𝒍𝒊𝒏𝒌𝒊𝒏𝒈 𝒕𝒉𝒓𝒐𝒖𝒈𝒉 𝒑𝒉𝒐𝒏𝒆           𝒏𝒖𝒎𝒃𝒆𝒓 𝒐𝒓 𝑸𝑹 𝒔𝒚𝒔𝒕𝒆𝒎                 🛠️ 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒅 𝒘𝒊𝒕𝒉 𝒉𝒊𝒈𝒉 𝒄𝒓𝒂𝒇𝒕 👍🐦     
+  ⚡ AXEL Explanation ⚡ &nbsp;&nbsp; 📲 WhatsApp Bot System NODE &nbsp;&nbsp; 🔗 Worker linking through phone number or QR system &nbsp;&nbsp; 🛠️ Developed with high craft 👍🐦
 </div>
 
 ---
 
-## 🇪🇬 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
-**𝑩𝒂𝒓𝒉𝒐𝒖𝒎 𝑫𝒆𝒗**  
+## 🇪🇬 Developer Contact
+**Barhoum Dev**  
 📞 +201069763042
 
-🇪🇬 𝑬𝒈𝒚𝒑𝒕 
+🇪🇬 Egypt
 
 ---
 
-# 🚀 AXEL 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒔
+# 🚀 AXEL Features
 
-> 𝑴𝒐𝒅𝒊𝒇𝒊𝒆𝒅 𝑩𝒂𝒊𝒍𝒆𝒚𝒔 𝑾𝒉𝒂𝒕𝒔𝒂𝒑𝒑 𝑾𝒆𝒃 𝑨𝑷𝑰 𝑺𝒚𝒔𝒕𝒆𝒎
+> Modified Baileys WhatsApp Web API System
 
-### ✨ 𝑴𝒂𝒊𝒏 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒔
+### ✨ Main Features
 
-✅ 𝑺𝒕𝒂𝒃𝒍𝒆 & 𝑳𝒐𝒏𝒈 𝑳𝒂𝒔𝒕𝒊𝒏𝒈  
-✅ 𝑴𝒖𝒍𝒕𝒊-𝑫𝒆𝒗𝒊𝒄𝒆 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 (𝑴𝑫)  
-✅ 𝑩𝒖𝒕𝒕𝒐𝒏𝒔 𝑺𝒖𝒑𝒑𝒐𝒓𝒕  
-✅ 𝑪𝒖𝒔𝒕𝒐𝒎 𝑷𝒂𝒊𝒓𝒊𝒏𝒈 𝑪𝒐𝒅𝒆 𝑺𝒖𝒑𝒑𝒐𝒓𝒕  
-✅ 𝑭𝒖𝒍𝒍 𝑮𝒓𝒐𝒖𝒑 𝑺𝒖𝒑𝒑𝒐𝒓𝒕  
-✅ 𝑭𝒂𝒔𝒕 𝑬𝒗𝒆𝒏𝒕 𝑯𝒂𝒏𝒅𝒍𝒊𝒏𝒈  
-✅ @𝒍𝒊𝒅 𝑴𝒆𝒏𝒕𝒊𝒐𝒏 𝑭𝒊𝒙 𝑭𝒐𝒓 𝑮𝒓𝒐𝒖𝒑𝒔  
+✅ Stable & Long Lasting  
+✅ Multi-Device Support (MD)  
+✅ Buttons Support  
+✅ Custom Pairing Code Support  
+✅ Full Group Support  
+✅ Fast Event Handling  
+✅ @lid Mention Fix For Groups  
 
 ---
 
-## 📦 𝑰𝒏𝒔𝒕𝒂𝒍𝒍𝒂𝒕𝒊𝒐𝒏
+## 📦 Installation
 
 ```bash
 npm install
-⚙️ 𝑬𝒗𝒆𝒏𝒕 𝑯𝒂𝒏𝒅𝒍𝒊𝒏𝒈
-AXEL 𝒖𝒔𝒆𝒔 𝑬𝒗𝒆𝒏𝒕𝑬𝒎𝒊𝒕𝒕𝒆𝒓 𝒔𝒚𝒔𝒕𝒆𝒎 𝒋𝒖𝒔𝒕 𝒍𝒊𝒌𝒆 𝒐𝒓𝒊𝒈𝒊𝒏𝒂𝒍 𝑩𝒂𝒊𝒍𝒆𝒚𝒔.
-𝑰𝒎𝒑𝒐𝒓𝒕𝒂𝒏𝒕: 𝑪𝒉𝒆𝒄𝒌 𝒂𝒍𝒍 𝑩𝒂𝒊𝒍𝒆𝒚𝒔 𝒆𝒗𝒆𝒏𝒕𝒔 𝒅𝒐𝒄𝒖𝒎𝒆𝒏𝒕𝒂𝒕𝒊𝒐𝒏 𝒃𝒆𝒇𝒐𝒓𝒆 𝒖𝒔𝒆.
-𝑬𝒙𝒂𝒎𝒑𝒍𝒆:
-𝑱𝒔
-𝑪𝒐𝒑𝒚 𝒄𝒐𝒅𝒆
-𝒄𝒐𝒏𝒔𝒕 𝒔𝒐𝒄𝒌 = 𝒎𝒂𝒌𝒆𝑾𝑨𝑺𝒐𝒄𝒌𝒆𝒕()
+```
 
-𝒔𝒐𝒄𝒌.𝒆𝒗.𝒐𝒏('𝒎𝒆𝒔𝒔𝒂𝒈𝒆𝒔.𝒖𝒑𝒔𝒆𝒓𝒕', ({ 𝒎𝒆𝒔𝒔𝒂𝒈𝒆𝒔 }) => {
-  𝒄𝒐𝒏𝒔𝒐𝒍𝒆.𝒍𝒐𝒈('𝑵𝒆𝒘 𝒎𝒆𝒔𝒔𝒂𝒈𝒆 𝒓𝒆𝒄𝒆𝒊𝒗𝒆𝒅:', 𝒎𝒆𝒔𝒔𝒂𝒈𝒆𝒔)
+## ⚙️ Event Handling
+
+AXEL uses the EventEmitter system just like original Baileys.
+
+**Important:** Check all Baileys events documentation before use.
+
+**Example:**
+
+```js
+const sock = makeWASocket()
+
+sock.ev.on('messages.upsert', ({ messages }) => {
+  console.log('New message received:', messages)
 })
-🔧 𝑮𝒓𝒐𝒖𝒑 𝑴𝒆𝒏𝒕𝒊𝒐𝒏 𝑭𝒊𝒙 (@𝒍𝒊𝒅 𝑺𝒖𝒑𝒑𝒐𝒓𝒕)
-𝑰𝒏𝒕𝒆𝒈𝒓𝒂𝒕𝒆𝒅 𝒔𝒚𝒔𝒕𝒆𝒎 𝒕𝒐 𝒂𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄𝒂𝒍𝒍𝒚 𝒓𝒆𝒔𝒐𝒍𝒗𝒆 @𝒍𝒊𝒅 𝒎𝒆𝒏𝒕𝒊𝒐𝒏𝒔 𝒊𝒏𝒔𝒊𝒅𝒆 𝒈𝒓𝒐𝒖𝒑𝒔.
-✔ 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄𝒂𝒍𝒍𝒚 𝒎𝒂𝒑𝒔 𝒍𝒊𝒅 𝒕𝒐 𝒓𝒆𝒂𝒍 𝒋𝒊𝒅
-✔ 𝑹𝒆𝒑𝒍𝒂𝒄𝒆𝒔 𝒎𝒆𝒏𝒕𝒊𝒐𝒏 𝒕𝒆𝒙𝒕 𝒄𝒐𝒓𝒓𝒆𝒄𝒕𝒍𝒚
-✔ 𝑾𝒐𝒓𝒌𝒔 𝒘𝒊𝒕𝒉 𝒎𝒖𝒍𝒕𝒊-𝒅𝒆𝒗𝒊𝒄𝒆
-�
-🔥 𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑩𝒚 𝑩𝑨𝑹𝑯𝑶𝑼𝑴 𝑫𝑬𝑽🔥 
+```
+
+## 🔧 Group Mention Fix (@lid Support)
+
+Integrated system to automatically resolve @lid mentions inside groups.
+
+✔ Automatically maps lid to real jid  
+✔ Replaces mention text correctly  
+✔ Works with multi-device  
+
+---
+
+🔥 Powered By BARHOUM DEV 🔥
